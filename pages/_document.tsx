@@ -17,8 +17,8 @@ export default function Document() {
     <meta charSet="utf-8" />
     <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
     {/* eslint-disable-next-line @next/next/no-title-in-document-head */}
-    <title>Muhammad Fiaz</title>
-       <meta name="description" content="Muhammad Fiaz - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AL/ML, and Design. Join my journey." />
+    <title>Cojovi</title>
+       <meta name="description" content="Cojovi - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AL/ML, and Design. Join my journey." />
 
     {/*These are need for PWA*/}
     <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -33,17 +33,17 @@ export default function Document() {
             <meta httpEquiv="Content-Type" content="text/html; charset=utf-8"/>
             <meta name="language" content="English"/>
             <meta name="revisit-after" content="1 days"/>
-            <link rel="canonical" href="https://muhammadfiaz.com" />
+            <link rel="canonical" href="https://after5diy.com" />
             <meta name="license" content="MIT License" />
             <meta httpEquiv="content-language" content="en-us" />
 
-            <link rel="preconnect" href="https://muhammadfiaz.com" />
+            <link rel="preconnect" href="https://after5diy.com" />
 
-            <link rel="dns-prefetch" href="https://muhammadfiaz.com" />
+            <link rel="dns-prefetch" href="https://after5diy.com" />
 
-            <meta name="author" content="Muhammad Fiaz" />
+            <meta name="author" content="Cojovi" />
 
-            <link rel="alternate" hrefLang="en" href="https://muhammadfiaz.com" />
+            <link rel="alternate" hrefLang="en" href="https://after5diy.com" />
 
             <meta name="robots" content="index, follow" />
             <meta name="googlebot" content="index, follow" />
@@ -66,25 +66,25 @@ export default function Document() {
 
 
 
-            <meta property="og:title" content="Muhammad Fiaz" key="title" />
-            <meta property="og:description" content="Muhammad Fiaz - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AI/ML, and Design. Join my journey." />
+            <meta property="og:title" content="Cojovi" key="title" />
+            <meta property="og:description" content="Cojovi - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AI/ML, and Design. Join my journey." />
             <meta property="og:image" content="https://avatars.githubusercontent.com/u/75434191?v=4" />
             <meta property="og:image:secure_url" content="https://avatars.githubusercontent.com/u/75434191?v=4" />
             <meta property="og:image:type" content="image/jpeg" />
-            <meta property="og:image:alt" content="Muhammad Fiaz" />
+            <meta property="og:image:alt" content="Cojovi" />
             <meta property="og:image:width" content="300" />
             <meta property="og:image:height" content="300" />
-            <meta property="og:url" content="https://muhammadfiaz.com" />
+            <meta property="og:url" content="https://after5diy.com" />
             <meta property="og:type" content="website" />
-            <meta property="og:profile" content="https://github.com/muhammad-fiaz" />
-            <meta property="og:site_name" content="Muhammad Fiaz" />
+            <meta property="og:profile" content="https://github.com/cojovi" />
+            <meta property="og:site_name" content="after5diy.com" />
              <meta property="og:locale" content="en_US" />
 
 
             <meta name="twitter:card" content="summary" />
             <meta name="twitter:site" content="https://twitter.com/muhammadfiaz_" />
             <meta name="twitter:title" content="Muhammad Fiaz" />
-            <meta name="twitter:description" content="Muhammad Fiaz - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AI/ML, and Design. Join my journey." />
+            <meta name="twitter:description" content="Cojovi - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AI/ML, and Design. Join my journey." />
             <meta name="twitter:image" content="https://avatars.githubusercontent.com/u/75434191?v=4" />
             <meta name="twitter:creator" content="https://twitter.com/muhammadfiaz_" />
             <meta name="twitter:domain" content="https://muhammadfiaz.com" />
@@ -100,19 +100,19 @@ export default function Document() {
 
             {/*These are the Keywords that will Boost your SEO in Ranking, so Make Sure to include and Update it up to your preference or don't mind this! 😴*/}
             <meta name="keywords" content="
-    Muhammad Fiaz, Full Stack Engineer, Full Stack Developer, DevOps Engineer, Software Engineer,
+    Cojovi, Full Stack Engineer, Full Stack Developer, DevOps Engineer, Software Engineer,
     Programmer, Software Developer, Portfolio Website, Web Developer, Coding, Full Stack Development,
     Technology Enthusiast, Software Development, Computer Science, Programming Projects,
     Frontend Developer, Backend Developer, Software Development Portfolio, Student,
-    Full Stack Web Developer, Muhammad Fiaz Portfolio, Coding Projects, Tech Portfolio,
-    Web Development, DevOps Professional, Muhammad Fiaz Projects, Software Engineer Portfolio,
+    Full Stack Web Developer, Cojovi Portfolio, Coding Projects, Tech Portfolio,
+    Web Development, DevOps Professional, Cojovi Projects, Software Engineer Portfolio,
     IT Professional, Technology Projects, Software Development Engineer, Computer Programmer,
     Code Portfolio, Technology Student, Software Architect, Cloud Computing,
     DevOps Specialist, Software Engineering Projects, Coding Portfolio,
     Full Stack Engineer Portfolio, Muhammad Fiaz Web Developer,
     Software Development Student, Coding Enthusiast, DevOps Portfolio, Programming Portfolio,
     Muhammad Fiaz DevOps, IT Portfolio, Web Developer Portfolio, Muhammad Fiaz Developer,
-    Full Stack Engineer Muhammad Fiaz, Muhammad Fiaz Coding, Muhammad Fiaz IT,
+    Full Stack Engineer Cojovi, MCojovi Coding, Cojovi IT,
     Muhammad Fiaz Full Stack Developer, Muhammad Fiaz Software Engineer, Muhammad Fiaz DevOps Engineer,
     Muhammad Fiaz Programming, Muhammad Fiaz Software Development, Muhammad Fiaz Coding Projects,
     Muhammad Fiaz Tech Portfolio, Muhammad Fiaz IT Portfolio, Muhammad Fiaz Software Engineer Portfolio,
