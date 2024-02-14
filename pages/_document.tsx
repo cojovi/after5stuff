@@ -10,7 +10,7 @@ export default function Document() {
 			
 <Head>
 {/*
-				Author: Muhammad Fiaz
+				Author: cojovi
                  GitHub: Visit the GitHub repository at https://github.com/muhammad-fiaz/portfolio/ for more details.
                  license: MIT License
                   */}
@@ -23,7 +23,7 @@ export default function Document() {
     {/*These are need for PWA*/}
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-    <meta name="apple-mobile-web-app-title" content="Muhammad Fiaz" />
+    <meta name="apple-mobile-web-app-title" content="cojovi" />
     <meta name="format-detection" content="telephone=no" />
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
@@ -82,12 +82,12 @@ export default function Document() {
 
 
             <meta name="twitter:card" content="summary" />
-            <meta name="twitter:site" content="https://twitter.com/muhammadfiaz_" />
-            <meta name="twitter:title" content="Muhammad Fiaz" />
+            <meta name="twitter:site" content="https://twitter.com/" />
+            <meta name="twitter:title" content="after5diy" />
             <meta name="twitter:description" content="Cojovi - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AI/ML, and Design. Join my journey." />
             <meta name="twitter:image" content="https://avatars.githubusercontent.com/u/75434191?v=4" />
-            <meta name="twitter:creator" content="https://twitter.com/muhammadfiaz_" />
-            <meta name="twitter:domain" content="https://muhammadfiaz.com" />
+            <meta name="twitter:creator" content="https://twitter.com/" />
+            <meta name="twitter:domain" content="https://after5diy.com" />
 
 
     <link rel='apple-touch-startup-image' href='/img/logo_rounded.png' sizes='2048x2732' />
@@ -109,19 +109,19 @@ export default function Document() {
     IT Professional, Technology Projects, Software Development Engineer, Computer Programmer,
     Code Portfolio, Technology Student, Software Architect, Cloud Computing,
     DevOps Specialist, Software Engineering Projects, Coding Portfolio,
-    Full Stack Engineer Portfolio, Muhammad Fiaz Web Developer,
+    Full Stack Engineer Portfolio, cojovi Web Developer,
     Software Development Student, Coding Enthusiast, DevOps Portfolio, Programming Portfolio,
-    Muhammad Fiaz DevOps, IT Portfolio, Web Developer Portfolio, Muhammad Fiaz Developer,
+    cojovi DevOps, IT Portfolio, Web Developer Portfolio, cojovi Developer,
     Full Stack Engineer Cojovi, MCojovi Coding, Cojovi IT,
-    Muhammad Fiaz Full Stack Developer, Muhammad Fiaz Software Engineer, Muhammad Fiaz DevOps Engineer,
-    Muhammad Fiaz Programming, Muhammad Fiaz Software Development, Muhammad Fiaz Coding Projects,
-    Muhammad Fiaz Tech Portfolio, Muhammad Fiaz IT Portfolio, Muhammad Fiaz Software Engineer Portfolio,
-    Muhammad Fiaz Web Developer Portfolio, Muhammad Fiaz DevOps Portfolio, Muhammad Fiaz Full Stack Engineer,
-    Muhammad Fiaz Full Stack Developer Portfolio, Muhammad Fiaz Coding Portfolio, Muhammad Fiaz Programming Portfolio,
-    Muhammad Fiaz Software Development Portfolio, Muhammad Fiaz Technology Projects,
-    Muhammad Fiaz Computer Science, Muhammad Fiaz Cloud Computing, Muhammad Fiaz IT Professional,
-    Muhammad Fiaz Technology Enthusiast, Muhammad Fiaz Computer Programmer, Muhammad Fiaz Code Portfolio,
-    Muhammad Fiaz Technology Student, Muhammad Fiaz Software Architect,fiaz,fiaz portfolio,fiaz devops,fiaz devops engineer,
+    cojovi Full Stack Developer, cojovi Software Engineer, cojovi DevOps Engineer,
+    cojovi Programming, cojovi Software Development, cojovi Coding Projects,
+    cojovi Tech Portfolio, cojovi IT Portfolio, cojovi Software Engineer Portfolio,
+    cojovi Web Developer Portfolio, cojovi DevOps Portfolio, cojovi Full Stack Engineer,
+    cojovi Full Stack Developer Portfolio, cojovi Coding Portfolio, cojovi Programming Portfolio,
+    cojovi Software Development Portfolio, cojovi Technology Projects,
+    cojovi Computer Science, cojovi Cloud Computing, cojovi IT Professional,
+    cojovi Technology Enthusiast, cojovi Computer Programmer, cojovi Code Portfolio,
+    cojovi Technology Student, cojovi Software Architect,fiaz,fiaz portfolio,fiaz devops,fiaz devops engineer,
     fiaz devops portfolio,fiaz devops projects,fiaz devops specialist,fiaz devops professional,fiaz devops engineer portfolio,
     fiaz devops engineer projects,fiaz devops engineer specialist,fiaz devops engineer professional,fiaz devops engineer coding,
     fiaz devops engineer coding projects,fiaz devops engineer coding portfolio,fiaz devops engineer coding specialist,
@@ -141,14 +141,14 @@ export default function Document() {
                     __html: `{
           "@context": "https://schema.org",
           "@type": "Person",
-          "name": "Muhammad Fiaz",
-          "url": "https://muhammadfiaz.com",
+          "name": "cojovi",
+          "url": "https://after5diy.com",
           "sameAs": [
-            "https://github.com/muhammad-fiaz",
-            "https://www.linkedin.com/in/muhammad-fiaz-",
-            "https://medium.com/@muhammad-fiaz",
-            "https://twitter.com/muhammadfiaz_",
-            "https://dev.to/muhammadfiaz"
+            "https://github.com/cojovi",
+            "https://www.linkedin.com/",
+            "https://medium.com/",
+            "https://twitter.com/",
+            "https://dev.to/"
           ]
         }`
                 }}
@@ -180,26 +180,26 @@ export default function Document() {
               },
               {
                 "@type": "Question",
-                "name": "Who is Muhammad Fiaz?",
+                "name": "Who is cojovi?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "Muhammad Fiaz is a Full Stack Developer specializing in Cloud, DevOps, ML/AI, and Design. He is passionate about programming, innovation, and shaping the future. With expertise in various technologies and a strong background in software development, Muhammad Fiaz strives to create innovative solutions and contribute to the advancement of technology. His skill set includes proficiency in cloud computing, DevOps practices, machine learning/artificial intelligence, and design principles. Muhammad Fiaz is dedicated to staying up-to-date with the latest industry trends and leveraging his knowledge to drive impactful and transformative projects."
+                  "text": "cojovi is a Full Stack Developer specializing in Cloud, DevOps, ML/AI, and Design. He is passionate about programming, innovation, and shaping the future. With expertise in various technologies and a strong background in software development, cojovi strives to create innovative solutions and contribute to the advancement of technology. His skill set includes proficiency in cloud computing, DevOps practices, machine learning/artificial intelligence, and design principles. cojovi is dedicated to staying up-to-date with the latest industry trends and leveraging his knowledge to drive impactful and transformative projects."
                 }
               },
               {
                 "@type": "Question",
-                "name": "Where is Muhammad Fiaz from?",
+                "name": "Where is cojovi from?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "Muhammad Fiaz is from Madurai, Tamil Nadu, India."
+                  "text": "cojovi is from fort worth, texas!"
                 }
               },
               {
                 "@type": "Question",
-                "name": "What does Muhammad Fiaz do?",
+                "name": "What does cojovi do?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "Muhammad Fiaz leverages Cloud, DevOps, ML/AI, Design, and web/mobile apps to benefit people with optimized operations and user-friendly experiences."
+                  "text": "cojovi leverages Cloud, DevOps, ML/AI, Design, and web/mobile apps to benefit people with optimized operations and user-friendly experiences."
                 }
               }
             ]
@@ -217,27 +217,27 @@ export default function Document() {
               "@type": "ListItem",
               "position": 1,
               "name": "Home",
-              "item": "https://muhammadfiaz.com/"
+              "item": "https://after5diy.com/"
             },{
               "@type": "ListItem",
               "position": 2,
               "name": "Docs",
-              "item": "https://muhammadfiaz.com/docs"
+              "item": "https://after5diy.com/docs"
             },{
               "@type": "ListItem",
               "position": 3,
               "name": "Articles",
-              "item": "https://muhammadfiaz.com/articles"
+              "item": "https://after5diy.com/articles"
             },{
               "@type": "ListItem",
               "position": 4,
               "name": "Projects",
-              "item": "https://muhammadfiaz.com/projects"
+              "item": "https://after5diy.com/projects"
             },{
               "@type": "ListItem",
               "position": 5,
               "name": "Sign In",
-              "item": "https://muhammadfiaz.com/signin"
+              "item": "https://after5diy.com/signin"
             }]
           }
         `
