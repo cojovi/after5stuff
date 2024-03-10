@@ -21,11 +21,11 @@ export default function Home() {
 				<SectionTitle
 					title="About Me"
 					preTitle="Synopsis"
-					subTitle="From an early age, my passion for creating new things has been a driving force. Immersed in the world of design and coding, I honed my skills and explored innovative solutions. This love for creation has shaped my career, fueling my desire to bring impactful and visually stunning projects to life. With meticulous attention to detail and a keen eye for aesthetics, I strive to craft exceptional and memorable experiences."
+					subTitle="ive been programming, coding and creating since i was able."
 				/>
 				<section className={about.content}>
 					<div className={about.image}>
-						<Image src="https://avatars.githubusercontent.com/u/75434191?v=4" width={600} height={800} alt="Muhammad Fiaz"   loading="eager" />
+						<Image src="https://i.imgur.com/QfMTOls.png" width={600} height={800} alt="cojovi"   loading="eager" />
 					</div>
 					<div className={about.copy}>
 						<CopyBlock
@@ -33,14 +33,14 @@ export default function Home() {
 							containerClass={about.container}
 							iconClass={about.icon}
 							icon={[ 'fas', 'user' ]}
-							copy="With a solid background in design and technical expertise, I am a skilled developer who excels in delivering high-quality solutions. Alongside my proficiency in coding, I possess strong leadership, time management, and multitasking skills, which I have honed through managing complex development projects. As a dedicated individual, I constantly seek opportunities to expand my knowledge and stay updated with the latest industry trends. With a passion for creating innovative and efficient applications, I am committed to bringing value and success to every development endeavor."
+							copy="i biuld cool stuff."
 						/>
 						<CopyBlock
 							title="Development and Projects"
 							containerClass={about.container}
 							iconClass={about.icon}
 							icon={['fas', 'code']}
-							copy="Development and project execution are my passion. I thrive on the challenges of bringing ideas to life through coding and turning concepts into functional, robust solutions. With meticulous planning, efficient workflows, and a keen eye for detail, I ensure successful project delivery, meeting objectives and exceeding expectations."
+							copy="Development and project of all things."
 						/>
 					</div>
 				</section>
